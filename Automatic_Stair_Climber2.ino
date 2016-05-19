@@ -1,4 +1,3 @@
-//change1
 int solenoid_f=11,solenoid_b=10;
 int motor_f_dir=8,motor_b_dir=9;
 int motor_f_pwm=5,motor_b_pwm=6;
